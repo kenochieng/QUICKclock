@@ -1,0 +1,20 @@
+body{
+    background-color:black;
+    display:flex;
+    align-items: center;
+    align-content: center;
+    
+    
+}
+
+.time{
+background-color:gold;
+height:100px;
+width:100px;
+border-radius:10px;
+margin-top: 250px;
+margin-left: 250px;
+text-align: center;
+align-items: center;
+
+}
