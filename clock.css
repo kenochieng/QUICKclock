@@ -1,3 +1,8 @@
+@font-face {
+    font-family: digital;
+    src: url(digital.ttf);
+  }
+
 body{
     background-color:black;
     display:flex;
@@ -16,5 +21,10 @@ margin-top: 250px;
 margin-left: 250px;
 text-align: center;
 align-items: center;
+font-size: 95px;
+font-family: digital;
+filter:blur(1px);
+color: blue;
+
 
 }
